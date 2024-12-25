@@ -17,7 +17,7 @@
 - ⚡ Fun fact: I'm innocent! 😇
 
 ### I code in
-<img width="48" height="48" src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png" alt="java-coffee-cup-logo--v1"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" /> <img width="64" height="64" src="https://img.icons8.com/glyph-neue/64/html.png" alt="html"/><img width="47" height="47" src="https://img.icons8.com/stickers/47/mysql.png" alt="mysql"/>
+<img width="48" height="48" src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png" alt="java-coffee-cup-logo--v1"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" /> <img width="64" height="64" src="https://img.icons8.com/nolan/64/html.png" alt="html"/> <img width="64" height="64" src="https://img.icons8.com/nolan/64/tailwind_css.png" alt="tailwind_css"/><img width="47" height="47" src="https://img.icons8.com/stickers/47/mysql.png" alt="mysql"/>
 
 ### IDE and Tools I Use
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> <img width="48" height="48" src="https://img.icons8.com/office/40/java-eclipse.png" alt="java-eclipse"/> <img width="48" height="48" src="https://img.icons8.com/color/48/apache-netbeans.png" alt="apache-netbeans"/>
